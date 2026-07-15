@@ -1246,3 +1246,31 @@ footer{
 ::-webkit-scrollbar-thumb:hover{
     background:var(--maroon);
 }
+.nav-logo{
+    height:52px;
+    width:auto;
+}
+
+.portfolio-label{
+    display:block;
+
+    font-size:11px;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+    color:#64748b;
+
+    margin-bottom:2px;
+}
+
+.logo-text h3{
+    margin:0;
+
+    font-size:22px;
+
+    font-weight:700;
+
+    color:#0f5d8d;
+}
