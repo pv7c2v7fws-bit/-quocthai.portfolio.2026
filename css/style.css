@@ -1247,8 +1247,9 @@ footer{
     background:var(--maroon);
 }
 .nav-logo{
-    height:52px;
+    height:30px;
     width:auto;
+    object-fit:contain;
 }
 
 .portfolio-label{
